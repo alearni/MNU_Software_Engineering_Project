@@ -1,1 +1,0 @@
-print('welcome my frinde')
